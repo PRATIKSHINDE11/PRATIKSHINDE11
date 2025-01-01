@@ -10,15 +10,15 @@
 
 - 💬 Ask me about **MERN,Android,Data Analytics**
 
-- 📫 How to reach me **pratikshinde3142@gmail.com**
+- 📫 How to reach me **pratik.shinde@dypic.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/pratik_s.741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik_s.741" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pratik_shinde3142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratik_shinde3142" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pratik_shinde3142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pratik_shinde3142" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pratik_shinde3142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
+<a href="https://codeforces.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratik913240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratik913240" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/pratik_shinde3142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="pratik_shinde3142" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pratik shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratik shinde" height="30" width="40" /></a>
 </p>
 
